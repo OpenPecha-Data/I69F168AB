@@ -4,4 +4,29 @@ source_metadata:
   id: bdr:W2DB4573
   title: ས་སྐྱ་གོང་མ་རྣམ་ལྔའི་གསུང་འབུམ་ཁ་སྐོང
   author: ''
-  volumes: {}
+  volumes:
+    d1fb7f7659514ce3ac4c44384ec3fc73:
+      image_group_id: I1PD34029
+      title: ''
+      volume_number: 1
+      total_pages: 370
+    4a83dd566d824e659bf0c1cdac6a017f:
+      image_group_id: I1PD34030
+      title: ''
+      volume_number: 2
+      total_pages: 408
+    7d8ad9811f464d4daa2475c01150c787:
+      image_group_id: I1PD34031
+      title: ''
+      volume_number: 3
+      total_pages: 470
+    c7e05c32a3cd4387991ccb58fc66d44e:
+      image_group_id: I1PD34032
+      title: ''
+      volume_number: 4
+      total_pages: 462
+    4c9c24a5499a4699967533cb780aca0a:
+      image_group_id: I1PD34033
+      title: ''
+      volume_number: 5
+      total_pages: 258
